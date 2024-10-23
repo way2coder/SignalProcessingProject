@@ -8,3 +8,17 @@ Domain1_to_Domain2/
 Domain1_to_Domain3/
 Domain1_to_Domain4/
 Domain1_to_Domain5/
+
+
+# pics
+*.eps
+
+*.txt
+*.csv
+
+# intermediate 
+.idea/
+.ipynb_checkpoints/
+
+
+
