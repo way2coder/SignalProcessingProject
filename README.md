@@ -49,10 +49,11 @@ Achieved improved classification performance by incorporating advanced HRV featu
 Demonstrated the effectiveness of feature engineering in enhancing deep learning models for biomedical signal classification.
 Provided a scalable and generalizable pipeline for ECG signal analysis that can be extended to other cardiac abnormalities.
 ## Repository Structure
-* `/FedDG`: Contains codes for first project.
-* `/AtrialFibrillation`: Contains codes for second project.
-* `/pics`: Some images.
+* `FedDG/`: Contains codes for first project.
+* `AtrialFibrillationClassification/`: Contains codes for second project.
+* `pics/`: Some images.
 * `README.md`: Project overview and instructions.
+* `Report/`
 <!-- requirements.txt: List of required Python packages. -->
 
 

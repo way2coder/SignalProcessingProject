@@ -16,6 +16,8 @@ Domain1_to_Domain5/
 *.txt
 *.csv
 
+.DS_Store
+
 # intermediate 
 .idea/
 .ipynb_checkpoints/
